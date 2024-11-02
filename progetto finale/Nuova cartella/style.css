@@ -1,0 +1,73 @@
+body {
+    font-family: open sans;
+}
+
+.logo {
+    background-size: cover;
+    display: block;
+}
+
+header {
+    background-image: url(banner.jpg);
+    background-size: cover;
+    padding: 20px;
+    margin: 0;
+    display: block;
+}
+
+button {
+    text-align: center;
+}
+
+h2,
+h1 {
+    color: #25a2c3;
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    background-color: #f04c2f;
+}
+
+blockquote {
+    background-color: #f04c2f;
+    padding: 1.2rem;
+    text-align: center;
+}
+
+.computer {
+    display: inline;
+    border-radius: 50%;
+    width: 100px;
+}
+
+.foto1 {
+    border: 1px solid#333;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 50px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.contattaci {
+    color: white;
+}
+
+footer {
+    background-color: #25a2c3;
+    text-align: center;
+}
+
+p {
+    display: inline;
+    text-align: left;
+}
+.foto1>img{
+    width: 450px;
+}
+footer>p {
+    color: white;
+}

@@ -1,0 +1,49 @@
+
+body{
+    font-size: 1.2rem;
+    font-family: open sans;
+    color:#393d41 ;
+    line-height: 1.65rem;
+max-width: 450px;
+margin-left: 40vw;
+margin-right: 40vw;
+}
+header{ 
+   background-image: url(banner.jpg);
+  background-size: poster;
+background-position: center;
+background-repeat: no-repeat;
+padding: 1.65rem;}
+h2,h1{color:#25a2c3;
+    text-align: center;
+}
+button{
+    text-align: center;
+    background-color:#f04c2f ;
+}
+
+blockquote{
+    background-color: #f04c2f;
+    padding: 1.2rem;
+}
+.computer{
+   border-radius: 50%;
+   padding: 15px;
+}
+.foto1{
+    border: 1px solid#333;
+padding-top: 0;
+padding-left: 0;
+padding-right: 0;
+padding-bottom: 50px;
+display: inline-block;
+margin: 10px;
+}
+.contattaci{
+    color:white;
+}
+footer{
+    background-color: #25a2c3;
+    text-align: center;
+}
+footer>p{color: white;}
